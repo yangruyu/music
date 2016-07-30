@@ -7,7 +7,11 @@
 a{
 	text-decoration: none;
 }
-body{
+.aaa{
+	position: fixed;
+	top:0;bottom: 0;
+	left: 0;right: 0;
+	margin: auto;
 	background: url(13.jpg)no-repeat;
 	background-size:cover;
 }
